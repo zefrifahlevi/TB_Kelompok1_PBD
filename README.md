@@ -23,3 +23,5 @@ Dengan nama ```rekap_kehadiran2.sql```
 - Login Akun
 ```Username: admin```
 ```Password: admin```
+
+### Selamat Menggunakan
