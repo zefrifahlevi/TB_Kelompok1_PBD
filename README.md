@@ -24,4 +24,4 @@ Dengan nama ```rekap_kehadiran2.sql```
 ```Username: admin```
 ```Password: admin```
 
-### Selamat Menggunakan
+### Selamat Menggunakan Website Absensi Siswa CRUD
